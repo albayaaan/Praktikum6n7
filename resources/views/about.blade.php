@@ -4,7 +4,7 @@
     <div class="container">
         <h3 class="text-primary my-4">About Me</h3>
         <div class="row my-4 justify-content-center">
-            <img src="\assets\me.jpg" alt="" style="max-width: 20vw;">
+            <img src="\assets\me.jpg" alt="" style="max-width: 400px;">
         </div>
         <h3 class="text-primary my-4 text-center">Tsaqib Abyan</h3>
         <h3 class="text-primary my-4">Background</h3>
